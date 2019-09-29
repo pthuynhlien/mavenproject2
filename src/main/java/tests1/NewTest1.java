@@ -10,7 +10,7 @@ public class NewTest1 {
  
   @Test
   public void openMyBlog() {
- driver.get("https://www.facebook.com");
+ driver.get("https://www.youtube.com/");
   }
   
   @BeforeClass
